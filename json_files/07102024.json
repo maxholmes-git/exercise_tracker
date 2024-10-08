@@ -1,0 +1,34 @@
+{
+    "date": "07102024",
+    "workout": "legs",
+    "exercises": [
+        {
+            "name": "Squats",
+            "weight": 0,
+            "reps": [16, 16, 16],
+            "max_reps": [16, 16, 16],
+            "notes": ""
+        },
+        {
+            "name": "Glute raises",
+            "weight": 9,
+            "reps": [8, 9, 10],
+            "max_reps": [8, 9, 10],
+            "notes": ""
+        },
+        {
+            "name": "Bulgarian Split",
+            "weight": 0,
+            "reps": [8, 8, 8],
+            "max_reps": [8, 8, 8],
+            "notes": ""
+        },
+        {
+            "name": "Calf Raises",
+            "weight": 0,
+            "reps": [0, 0, 0],
+            "max_reps": [10, 10, 10],
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "date": "29092024",
+    "workout": "chest_and_tris",
+    "exercises": [
+        {
+            "name": "Pushups",
+            "weight": 0,
+            "reps": [13, 13, 13],
+            "max_reps": [13, 14, 16],
+            "notes": "maybe new pushups"
+        },
+        {
+            "name": "Standing skull crush",
+            "weight": 7.25,
+            "reps": [10, 10, 10],
+            "max_reps": [10, 11, 12],
+            "notes": "10 11 x"
+        },
+        {
+            "name": "Floor Press",
+            "weight": 14.5,
+            "reps": [9, 10, 12],
+            "max_reps": [9, 10, 12],
+            "notes": "new method"
+        }
+    ]
+}
